@@ -16,6 +16,8 @@ profile
 *.moved-aside
 DerivedData
 .idea/
+
+# Clojure
 target/
 lib/
 classes/
